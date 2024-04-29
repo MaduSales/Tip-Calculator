@@ -2,7 +2,7 @@
 
 ![image](https://github.com/MaduSales/Tip-Calculator/assets/166547195/55ddd651-3a72-433b-85a8-fde95f900c7f)
 
-Projeto com HTML, CSS e JavaScript de ua página que calcula gorjetas de garçons/bartenders por atributos como: qualidade de serviço, quantas pessoas atendidas e quantia gasta por clientes
+Projeto com HTML, CSS e JavaScript de uma página que calcula gorjetas de garçons/bartenders por atributos como: qualidade de serviço, quantas pessoas atendidas e quantia gasta por clientes
 
 Projeto construído durante o curso PROPROFISSÃO do Instituto PROA
 
