@@ -8,7 +8,7 @@ Projeto construído durante o curso PROPROFISSÃO do Instituto PROA
 
 
 ## Acesso
-[](https://madusales.github.io/Tip-Calculator/)
+[Clique aqui para acessar!](https://madusales.github.io/Tip-Calculator/)
 
 ## Tecnologias
 - HTML
